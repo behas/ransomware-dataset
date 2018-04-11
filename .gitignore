@@ -1,0 +1,22 @@
+push_to_server.sh
+*.class
+*.log
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+bin/
+.cache-main
+.classpath
+.project
+.settings/
