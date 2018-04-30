@@ -1,7 +1,7 @@
 # Ransomware in the Bitcoin Ecosystem | Dataset Extraction
 
-This repository contains the ransomware seeed dataset and expansion procedure
-described in the paper Ransomware Payments in the Bitcoin Ecosystem. The
+This repository contains the ransomware seed dataset and expansion procedure
+described in the paper Ransomware Payments in the Bitcoin Ecosystem (https://arxiv.org/abs/1804.04080). The
 extraction procedure has been implemented of the open-souce [GraphSense
 Cryptocurrency Analytics platform (v.0.3.1)](http://graphsense.info/).
 
