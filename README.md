@@ -18,3 +18,6 @@ Before running the job, replace pointers to SPARK-MASTER, at least two CASSANDRA
 nodes and the job's target HDFS path in `./execute.sh` and `./src/main/scala/at/ac/ait/RansomwareDataset.scala`.
 
 Run the job by running `./execute.sh`.
+
+## Complete dataset 
+The complete expanded dataset can also be downloaded at: https://zenodo.org/record/1238041#.WumE2dNuZR4 
